@@ -1,0 +1,2 @@
+Here's to my escapade with git and its hub.
+Hello World.
